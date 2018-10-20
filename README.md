@@ -4,4 +4,9 @@ AB menu
     corns
     paneer
     mushroom
-  
+  Non Veg course
+    chicken
+    fish 
+    kabab
+    squids
+    octopus
